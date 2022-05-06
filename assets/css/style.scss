@@ -4,9 +4,20 @@
 @import "{{ site.theme }}";
 
 .objectives-list li {
-  margin-bottom: 0.5em;
+  margin: 0.5em 0;
 }
 
 .objectives-list > ul > li {
-  margin-bottom: 1em;
+  margin: 1em 0;
+}
+
+body {
+  background: #111;
+  color: #eee;
+}
+.markdown-body h1, .markdown-body h2 {
+  border-color: #444;
+}
+a {
+  color: #ffcf56;
 }
