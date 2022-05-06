@@ -33,7 +33,6 @@ github_username:  jekyll
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
   - jekyll-remote-theme
-  - jekyll-github-metadata
 
 # Exclude from processing.
 # The following items will not be processed, by default.
