@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.objectives-list li {
+  margin-bottom: 0.5em;
+}
+
+.objectives-list > ul > li {
+  margin-bottom: 1em;
+}
