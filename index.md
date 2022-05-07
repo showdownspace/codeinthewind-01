@@ -8,4 +8,5 @@ layout: home
 
 ## Challenges
 
-- [Example Challenge](example)
+- [Example Challenge #1](example)
+- [Example Challenge #2](example2)

@@ -11,8 +11,8 @@ title: Example Challenge
   - ปุ่ม delete ไม่มีขอบ ใช้รูปจาก URL นี้ได้เลย `https://i.showdown.space/e01/delete-icon.svg`
 - สร้างวงกลม 6 วงเล็กๆ เรียงกัน เพื่อแสดงสถานะการใส่รหัสผ่าน PIN
   - ให้วงกลม 2 วงแรกเป็นสีทึบ
-- ใส่ข้อความ “กรุณาใส่รหัสผ่าน” ตรงด้านบน
-- ใส่ข้อความ “ลืมรหัสผ่าน” ตรงข้างล่าง
+- ใส่ข้อความ _กรุณาใส่รหัสผ่าน_ ตรงด้านบน
+- ใส่ข้อความ _ลืมรหัสผ่าน_ ตรงข้างล่าง
   - เนื่องจากเป็นลิงค์ สีควรจะแตกต่างจากสีข้อความทั่วไป และมีขีดเส้นใต้
 - ใส่ปุ่มปิดเป็นรูปกากบาท ตรงมุมบนขวาของหน้าจอ
   - ไม่มีรูปให้ ให้วาดเองด้วย HTML
@@ -26,8 +26,8 @@ title: Example Challenge
     - The delete button is borderless. Use the image from this URL https://i.showdown.space/e01/delete-icon.svg
 - Create 6 small circles arranged in a row to indicate the PIN input status.
     - Make the first 2 circles filled.
-- Add “Please enter your password” text at the top.
-- Add “Forgot your password” link below.
+- Add _กรุณาใส่รหัสผ่าน_ text at the top.
+- Add _ลืมรหัสผ่าน_ link below.
     - Its color should be different from normal text color and it should be underlined.
 - Put the close button in the shape of a cross. in the upper-right corner of the screen.
     - No image provided, draw your own in HTML.
