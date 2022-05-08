@@ -45,5 +45,17 @@
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
+
+    <script>
+      for (const em of document.querySelectorAll('.objectives-list em')) {
+        em.onclick = () => {
+          const selection = window.getSelection();
+          selection.removeAllRanges()
+          selection.selectAllChildren(em)
+          document.execCommand('copy')
+        }
+        em.classList.add('click-to-copy')
+      }
+    </script>
   </body>
 </html>

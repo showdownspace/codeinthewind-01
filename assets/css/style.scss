@@ -25,3 +25,19 @@ em {
   font-style: normal;
   color: #7dd3fc;
 }
+.click-to-copy {
+  cursor: pointer;
+}
+.click-to-copy::before {
+  position: absolute;
+  content: 'Click to copy';
+  display: inline-block;
+  pointer-events: none;
+  color: #888;
+  transform: translateY(-100%) translateY(4px);
+  font-size: 0.8em;
+  opacity: 0;
+}
+.click-to-copy:hover::before {
+  opacity: 1;
+}

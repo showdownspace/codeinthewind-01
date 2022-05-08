@@ -1,6 +1,7 @@
 ---
 layout: challenge
 title: 'Example Challenge #2'
+example: true
 ---
 
 ## Objectives
