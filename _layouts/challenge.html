@@ -17,15 +17,15 @@
 
       <h1>{{ page.title }}</h1>
       <div style="display: flex; gap: 1rem; flex-wrap: wrap; flex-direction: row-reverse;">
-        <div style="flex: 1 0 540px">
+        <div style="flex: 1 0 540px; max-width: 100%;">
           <div style="position: sticky; top: 0;">
             <h2>Reference</h2>
             <div style="text-align: center">
-              <img src="./reference.png" alt="Reference image" style="max-width: 540px; box-shadow: 0 1px 8px #0004;">
+              <img src="./reference.png" alt="Reference image" style="width: 540px; max-width: 100%; box-shadow: 0 1px 8px #0004;">
             </div>
           </div>
         </div>
-        <div style="flex: 999999 0 560px" class="objectives-list">
+        <div style="flex: 999999 1 560px" class="objectives-list">
           {{ content }}
         </div>
       </div>
