@@ -1,6 +1,6 @@
 ---
 layout: challenge
-title: 'Practice Challenge: Manoonchai'
+title: 'Test Challenge: Manoonchai'
 ---
 
 ## Objectives
