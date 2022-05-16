@@ -1,6 +1,6 @@
 ---
 layout: challenge
-title: 'Qualifiers #2: Pastel'
+title: 'Qualifiers #2: Pastel Collage'
 ---
 
 ## Objectives

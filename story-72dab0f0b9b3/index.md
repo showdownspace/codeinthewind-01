@@ -1,6 +1,6 @@
 ---
 layout: challenge
-title: 'Semi-finals #1: Story'
+title: 'Semi-finals #1: Instagram Story'
 ---
 
 ## Objectives

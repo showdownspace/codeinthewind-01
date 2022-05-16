@@ -1,6 +1,6 @@
 ---
 layout: challenge
-title: 'Round: Name'
+title: 'Finals: Control Room'
 ---
 
 ## Objectives
